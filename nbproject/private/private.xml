@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/phpvigo05/config/database.php</file>
+            <file>file:/var/www/phpvigo05/app/Providers/AuthServiceProvider.php</file>
+            <file>file:/var/www/phpvigo05/.env</file>
+            <file>file:/var/www/phpvigo05/config/mail.php</file>
+            <file>file:/var/www/phpvigo05/config/cache.php</file>
+            <file>file:/var/www/phpvigo05/config/services.php</file>
+            <file>file:/var/www/phpvigo05/.env.example</file>
+            <file>file:/var/www/phpvigo05/config/compile.php</file>
+            <file>file:/var/www/phpvigo05/app/Providers/AppServiceProvider.php</file>
+            <file>file:/var/www/phpvigo05/config/filesystems.php</file>
+            <file>file:/var/www/phpvigo05/database/migrations/2016_06_06_192257_create_authors_table.php</file>
+            <file>file:/var/www/phpvigo05/app/Http/Middleware/Admin.php</file>
+            <file>file:/var/www/phpvigo05/app/Http/Kernel.php</file>
+            <file>file:/var/www/phpvigo05/config/broadcasting.php</file>
+            <file>file:/var/www/phpvigo05/app/Providers/RouteServiceProvider.php</file>
+            <file>file:/var/www/phpvigo05/app/Http/routes.php</file>
+            <file>file:/var/www/phpvigo05/app/Providers/EventServiceProvider.php</file>
+            <file>file:/var/www/phpvigo05/config/queue.php</file>
+            <file>file:/var/www/phpvigo05/app/Jobs/Job.php</file>
+            <file>file:/var/www/phpvigo05/config/app.php</file>
+            <file>file:/var/www/phpvigo05/database/migrations/2016_06_06_192747_create_books_table.php</file>
+        </group>
+    </open-files>
+</project-private>
